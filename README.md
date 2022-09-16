@@ -1,7 +1,7 @@
 # improved_demon
 improved demon spectrum analysis
 
-> 毕业论文源码，通过前沿的信号处理理论分析舰船噪声，主要方向为DEMON分析。
+> 分析舰船噪声，主要方向为DEMON分析。
 >
 > 数据来源：[shipsear](http://atlanttic.uvigo.es/underwaternoise/)
 
